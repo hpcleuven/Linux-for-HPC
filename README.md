@@ -1,6 +1,6 @@
 # Linux for HPC course 
 
-GitHub repository for participants of the "worker & atools" training. For information on the training, see the website [https://hpcleuven.github.io/Linux-for_HPC/](https://hpcleuven.github.io/Linux-for-HPC/)
+GitHub repository for participants of the "worker & atools" training. For information on the training, see the website [https://hpcleuven.github.io/Linux-for-HPC/](https://hpcleuven.github.io/Linux-for-HPC/)
 
 ## What is it?
 
