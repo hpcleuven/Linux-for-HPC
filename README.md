@@ -4,7 +4,7 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 ## What is it?
 
-1. [`Linux-for-HPC.pdf`](Linux-for-HPC.pdf) - slides from the course
+1. [`Linux-for-HPC.pdf`](Linux-for-HPC.pdf) - slides from the course,
 
 1. [`hands-on1-vsc.pdf`](hands-on1-vsc.pdf) - exercises (and hints) for the first hands on session,
 
