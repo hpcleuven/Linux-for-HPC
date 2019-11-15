@@ -11,7 +11,10 @@ This course will give a more detailed and HPC oriented summary of the basic comm
 	
 ## Target
 This course is primarily targeted at current VSC-users
-	
+
+## Duration
+Total duration: 4 hours.
+
 ## Price
 Free of charge
 	
