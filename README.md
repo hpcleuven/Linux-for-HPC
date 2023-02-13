@@ -16,6 +16,11 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 1. [`hands-on5-vsc.pdf`](hands-on5-vsc.pdf) - exercises (and hints) for the fifth hands on session,
 
+1. [`scratch-bookmark.nxr`](scratch-bookmark.nxr) - NX movie showing how to create a bookmark for $VSC_SCRATCH,
+
+1. [`scratch-link.nxr`](scratch-link.nxr) - NX movie showing how to create a link to the $VSC_SCRATCH on the desktop,
+
 1. README.md - info about content,
 
 1. docs - directory containing the website for this repository.
+
