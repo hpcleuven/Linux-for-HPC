@@ -5,7 +5,7 @@ This course will give a more detailed and HPC oriented summary of the basic comm
 - Linux shell: features, customizing, environment variables, aliasing
 - Remote GUI connection: transferring files, displaying graphics
 - Short intro to Linux scripting
-- Creating sample PBS scripts for VSC
+- Creating sample slurm scripts for VSC
 - Installing applications: package manager concept, manual installations
 - This course provides several hands-on sessions
 	
