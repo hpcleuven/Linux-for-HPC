@@ -26,8 +26,8 @@ Having a basic knowledge of Linux is expected (if not please follow first the Li
 - Working with i/o files
 - Customizing the shell for particular needs
 - Being able to get the necessary account/job information
-- Getting familiar with NX GUI software
-- Writing a sample PBS script for VSC
+- Getting familiar with GUI and visualization software
+- Writing a sample SLURM script for VSC
 - Installing applications as a user
 
 ## Reminder
