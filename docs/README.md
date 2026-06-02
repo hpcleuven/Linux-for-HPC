@@ -3,7 +3,11 @@
 ## Content
 This course will give a more detailed and HPC oriented summary of the basic command line related issues in Linux:
 - Linux shell: features, customizing, environment variables, aliasing
+- Differences between home and HPC Linux
+- Midnight commander
 - OnDemand GUI Desktop, displaying graphics
+- screen and tmux
+- rsync and scp
 - Short intro to Linux scripting
 - Creating sample slurm scripts for VSC
 - Installing applications: package manager concept, manual installations
