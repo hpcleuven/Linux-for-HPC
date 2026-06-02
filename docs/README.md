@@ -3,7 +3,7 @@
 ## Content
 This course will give a more detailed and HPC oriented summary of the basic command line related issues in Linux:
 - Linux shell: features, customizing, environment variables, aliasing
-- Remote GUI connection: transferring files, displaying graphics
+- OnDemand GUI Desktop, displaying graphics
 - Short intro to Linux scripting
 - Creating sample slurm scripts for VSC
 - Installing applications: package manager concept, manual installations
